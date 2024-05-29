@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Queen of Denmark Margrethe II announces abdication live on TV - BBC.com",
+            "description": "Margrethe II, who has reigned for 52 years, will step down on 14 January to be replaced by her son.",
+            "url": "https://www.bbc.com/news/world-europe-67854395",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E995/production/_132179795_gettyimages-461182183.jpg",
+            "publishedAt": "2023-12-31T18:23:00Z",
+            "content": "By Jacqueline HowardBBC News\r\nQueen Margrethe II announced her abdication during her annual New Year's speech.\r\nDenmark's Queen Margrethe II has announced her surprise abdication in a new year TV add… [+3070 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Kevin Seifert",
+            "title": "Merged XFL-USFL to be rebranded as United Football League - ESPN",
+            "description": "The merged XFL-USFL spring football league will be known as the UFL -- the \"United Football League.\"",
+            "url": "https://www.espn.com/xfl/story/_/id/39215302/merged-xfl-usfl-rebranded-united-football-league",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1231%2Fr1272204_3_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-12-31T17:35:00Z",
+            "content": "The merged XFL-USFL spring football league will be known as the UFL -- the \"United Football League\" -- its partners confirmed Sunday.\r\nFormer XFL president/CEO Russ Brandon will hold the same title f… [+1903 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "NFL officiating crew in controversial Lions-Cowboys game may be downgraded ahead of playoffs: report - Fox News",
+            "description": "The officiating crew that worked the Detroit Lions-Dallas Cowboys game may not get a chance to work the postseason, according to NFL insider Adam Schefter.",
+            "url": "https://www.foxnews.com/sports/nfl-officiating-crew-controversial-lions-cowboys-game-may-be-downgraded-ahead-playoffs-report",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/Brad-Allen-refs.jpg",
+            "publishedAt": "2023-12-31T17:25:00Z",
+            "content": "The officiating crew that worked the game between the Detroit Lions and Dallas Cowboys could be downgraded before the postseason over the controversial call at the end of the game, according to an NF… [+3351 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "US Navy helicopters fire at Yemen's Houthi rebels and kill several in latest Red Sea shipping attack - The Associated Press",
+            "description": "The U.S. military says its forces opened fire on and killed several Houthi rebels after they attacked a cargo ship in the Red Sea. The confrontation marks an escalation in a maritime conflict linked to the war in Gaza. The U.S. Central Command said the crew o…",
+            "url": "https://apnews.com/article/yemen-houthis-red-sea-shipping-centcom-us-bb70acea5062a9952a5b983ecc047863",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6450bfc/2147483647/strip/true/crop/5184x2916+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2Fab%2F9e6ba4501290d872623cfaf3ac9d%2Fdb240e7814314e50b983538533f276c4",
+            "publishedAt": "2023-12-31T17:24:00Z",
+            "content": "BEIRUT (AP) The U.S. military said Sunday that its forces opened fire on Houthi rebels after they attacked a cargo ship in the Red Sea, killing several of them in an escalation of the maritime confli… [+3319 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Benedict would have banned same-sex blessings, aide says on anniversary - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/europe/benedict-would-have-banned-same-sex-blessings-aide-says-anniversary-2023-12-31/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-31T14:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jessica Orwig, Morgan McFall-Johnsen, Jenny McGrath, Grace Eliza Goodwin, Marianne Guenot",
+            "title": "Best images from NASA's James Webb Space Telescope in 2023 - Business Insider",
+            "description": "NASA's impressive James Webb Space Telescope is changing how we see the universe. See the best images it took in 2023.",
+            "url": "https://www.businessinsider.com/nasa-james-webb-space-telescope-best-images-2023",
+            "urlToImage": "https://i.insider.com/658efa311c5c7b8c9a0ce085?width=1200&format=jpeg",
+            "publishedAt": "2023-12-31T13:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Action Network"
+            },
+            "author": "Stuckey",
+            "title": "NFL Week 17 Predictions: 3 Against the Spread Picks - The Action Network",
+            "description": "Stuckey makes his NFL Week 17 picks and against-the-spread (ATS) bets and picks.",
+            "url": "https://www.actionnetwork.com/nfl/nfl-week-17-predictions-picks-against-spread",
+            "urlToImage": "https://images.actionnetwork.com/blog/2023/12/allen.jpg",
+            "publishedAt": "2023-12-31T13:02:00Z",
+            "content": "Every week during the 2023-24 NFL season, I'll be sharing my favorite picks against the spread (ATS) and betting card for every Sunday slate in my NFL Week 17 predictions and against the spread picks… [+9232 chars]"
+        }
+    ]
+}
