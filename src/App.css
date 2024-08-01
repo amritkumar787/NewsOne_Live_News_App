@@ -1,0 +1,8 @@
+@media screen and (max-width: 440px) {
+    .footer{
+        flex-direction: column;
+    }
+    .gap{
+        gap: 0px;
+    }
+  }
